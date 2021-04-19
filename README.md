@@ -21,5 +21,4 @@ Finally, you can press the **B key** to switch to *erase* mode. Again, press **s
 OOP
 
 ## Technologies
-Java 7, SimpleGFX Library, IntelliJ IDEA, Apache Ant, Git, Photoshop
-
+Java 7, SimpleGFX Library, IntelliJ IDEA
