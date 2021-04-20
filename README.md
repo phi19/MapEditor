@@ -1,8 +1,7 @@
 # MapEditor
 
 ## Project Description
-A bootcamp project after 4 weeks of learning Java.
-We were challenged to do a VERY simplified paint in Simple Graphics Library from <Academia de Código_>.
+A VERY simplified paint made with Simple Graphics Library from <Academia de Código_>, after 4 weeks of learning Java.
 
 ## Instructions
 You start with a auto-generated grid with as many squares as you want by side (be careful: too many squares can overload the program). You can also choose if it shows limits.
